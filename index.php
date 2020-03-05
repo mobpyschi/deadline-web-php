@@ -217,7 +217,7 @@
 
 		<div class="contaier" style="background-color: black">
 			<div class="row" style="padding: 1rem 0;">
-				<span style="margin-left: 8rem; color: white">© 2019 Make by - LECODANGHUY.</span>
+				<span style="margin-left: 8rem; color: white">© 2019 Make by - pHAMNGOCHAI.</span>
 			</div>
 		</div>
 
